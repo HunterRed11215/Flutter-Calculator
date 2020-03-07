@@ -3,7 +3,7 @@
 This is a basic calculator
 
 <div align="center">
-  <img src="./Screenshot/android.png" height="540"/>
+  <img src="./Screenshot/android.jpg" height="540"/>
  
 </div>
 
