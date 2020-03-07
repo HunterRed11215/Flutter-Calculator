@@ -1,6 +1,11 @@
-# calculator
+# Calculator
 
 This is a basic calculator
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sayonetech/flutter_calculator/master/screenshots/android.png" height="540"/>
+ 
+</div>
 
 ## Getting Started
 
