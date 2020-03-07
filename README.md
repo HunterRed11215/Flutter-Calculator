@@ -3,7 +3,7 @@
 This is a basic calculator
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HunterRed11215/Flutter_Calculator/master/Screenshot/android.png" height="540"/>
+  <img src="https://raw.githubusercontent.com/HunterRed11215/Flutter_Calculator/Screenshot/android.png" height="540"/>
  
 </div>
 
